@@ -1,0 +1,14 @@
+names:
+- OranSoda
+- Pepsi
+- Sprite
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cans-kwabo
+  url: https://universe.roboflow.com/thesis-1nahg/cans-kwabo/dataset/1
+  version: 1
+  workspace: thesis-1nahg
+test: ../test/images
+train: datasets/Cans-1/train/images
+val: datasets/Cans-1/valid/images
